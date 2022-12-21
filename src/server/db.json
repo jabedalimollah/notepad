@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "jabedalimollah7@gmail.com",
+      "password": "1234"
+    },
+    {
+      "date": "20/12/2022",
+      "time": "4:41 pm",
+      "day": 20,
+      "month": "Dec",
+      "title": "Alex Smith ",
+      "textcontent": "Dear Alex Smith Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, deserunt? Voluptate, rerum?",
+      "id": 2
+    },
+    {
+      "date": "20/12/2022",
+      "time": "7:16 pm",
+      "day": 20,
+      "month": "Dec",
+      "title": "asdf",
+      "textcontent": "asdfasdf\nadsf asdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff\naldf\naldsfa\nsdflasdddddddf",
+      "id": 4
+    },
+    {
+      "date": "20/12/2022",
+      "time": "6:43 pm",
+      "day": 20,
+      "month": "Dec",
+      "title": "asdf",
+      "textcontent": "afdasdf",
+      "id": 6
+    },
+    {
+      "date": "20/12/2022",
+      "time": "6:43 pm",
+      "day": 20,
+      "month": "Dec",
+      "title": "werw",
+      "textcontent": "rwerwr",
+      "id": 7
+    },
+    {
+      "date": "20/12/2022",
+      "time": "6:43 pm",
+      "day": 20,
+      "month": "Dec",
+      "title": "werw",
+      "textcontent": "asdfgasdf",
+      "id": 8
+    },
+    {
+      "date": "20/12/2022",
+      "time": "6:43 pm",
+      "day": 20,
+      "month": "Dec",
+      "title": "werwr",
+      "textcontent": "werwadsfa",
+      "id": 9
+    },
+    {
+      "date": "20/12/2022",
+      "time": "6:43 pm",
+      "day": 20,
+      "month": "Dec",
+      "title": "tt",
+      "textcontent": "ttt",
+      "id": 10
+    },
+    {
+      "date": "20/12/2022",
+      "time": "6:43 pm",
+      "day": 20,
+      "month": "Dec",
+      "title": "werwr",
+      "textcontent": "werwrw",
+      "id": 11
+    },
+    {
+      "date": "20/12/2022",
+      "time": "6:43 pm",
+      "day": 20,
+      "month": "Dec",
+      "title": "tet",
+      "textcontent": "werqeraf",
+      "id": 12
+    },
+    {
+      "date": "21/12/2022",
+      "time": "7:44 pm",
+      "day": 21,
+      "month": "Dec",
+      "title": "Rohit",
+      "textcontent": "aldsfasdfadfalsdfasdfksadlfasldflsadlfsladflasldfasdfasdfkek\nwweroiwroiweirweirweiorweirwer\nwe...cv.asd.fas.ddsa.dfjweoirw\noeisdlasjfowerwewrweoiwersk.af\ndjalsdsdfowerewjrlasdfjoewrwid\nsaldfjasdlfweirladsfj",
+      "id": 14
+    },
+    {
+      "date": "21/12/2022",
+      "time": "7:19 pm",
+      "day": 21,
+      "month": "Dec",
+      "title": "Jabed Ali Mollah",
+      "textcontent": "Hello I am Jabed Ali Mollah",
+      "id": 15
+    },
+    {
+      "date": "21/12/2022",
+      "time": "7:54 pm",
+      "day": 21,
+      "month": "Dec",
+      "title": "KGF",
+      "textcontent": "Yash Rocky",
+      "id": 16
+    }
+  ]
+}

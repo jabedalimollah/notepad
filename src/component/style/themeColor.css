@@ -1,0 +1,75 @@
+.theme-color-body {
+  width: 20%;
+  height: 70vh;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  background-color: #0000007c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: auto;
+  padding: 0 15px;
+  z-index: 9;
+  position: absolute;
+}
+.colorPlate {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* width: 15%; */
+  background-color: white;
+  /* width: 90%; */
+  justify-content: center;
+}
+.themecolor-close {
+  display: flex;
+  flex-direction: column;
+  /* align-self: flex-end; */
+  padding: 4px 8px;
+  margin-bottom: 5px;
+  border: none;
+  background-color: rgb(255, 115, 115);
+  color: white;
+}
+.themecolor-close:hover {
+  background-color: rgb(207, 93, 93);
+}
+.colorPlate .ThemeColor {
+  padding: 10% 20%;
+  margin: 2px;
+  border: none;
+}
+.colorPlate .ThemeColor1 {
+  background-color: #f5deb3;
+}
+.colorPlate .ThemeColor2 {
+  background-color: pink;
+  /* background-color: rgb(219, 167, 175); */
+}
+.colorPlate .ThemeColor3 {
+  background-color: lightsalmon;
+}
+.colorPlate .ThemeColor4 {
+  background-color: lightgreen;
+}
+.colorPlate .ThemeColor5 {
+  background-color: #c1a6e0;
+}
+.colorPlate .ThemeColor6 {
+  background-color: lightblue;
+}
+.colorPlate .ThemeColor7 {
+  background-color: lightseagreen;
+}
+.colorPlate .ThemeColor8 {
+  background-color: rgb(167, 167, 167);
+}
+.colorPlate .ThemeColor9 {
+  background-color: lightskyblue;
+}
+.colorPlate .ThemeColor10 {
+  background-color: rgb(166, 166, 125);
+}
