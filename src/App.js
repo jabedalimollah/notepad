@@ -78,7 +78,10 @@ function App() {
         style={{ backgroundColor: theme.containerColor }}
       >
         <div className="topbar">
-          <h3 className="logo">Notebook</h3>
+          <h3 className="logo">
+            <font color=" #616161">Note</font>
+            <font color=" #C95E5E">book</font>
+          </h3>
           <div className="btn">
             <button
               className="theme-color"

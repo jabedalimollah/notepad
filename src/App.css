@@ -3,6 +3,10 @@
   font-family: AttackGraffiti;
   src: url(../public/fonts/AttackGraffiti/AttackGraffiti-3zRBM.ttf);
 }
+@font-face {
+  font-family: choco-chici-font;
+  src: url(../public/fonts/choco-chici-font/ChocoChici-2OMyW.ttf);
+}
 * {
   padding: 0;
   margin: 0;
@@ -39,9 +43,11 @@
   font-size: 4vmin;
   letter-spacing: 1px;
   font-weight: lighter;
-  font-family: "AttackGraffiti";
+  /* font-family: "AttackGraffiti"; */
+  /* font-family: "choco-chici-font"; */
   margin-left: 10px;
-  color: #303030;
+  /* color: #303030; */
+  /* color: rgb(38, 38, 38); */
 }
 .topbar .btn {
   margin-right: 8px;
